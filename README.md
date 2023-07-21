@@ -2,3 +2,15 @@
 DC-DC buck converter based on NCP3020B controller
 
 
+# Aproximate spaces
+(!!!WARNING THE PROJECT IS STILL IN PROGRESS, THESE NUMBERS CAN BE DIFFERENT OR INCORRECT!!!)
+| Part | Detail        |
+|-----:|---------------|
+|  VIN(MAX)|24        (V)|
+|  VIN(MIN)|5    (V)|
+|  VOUT(MAX)|22(V)|
+|  VOUT(MIN)|1.5    (V)|
+|  IOUT(MAX)|15(A)|
+
+# R0.2S
+![github-small](https://github.com/p8p671/DC-DCBUCK_24VTO1.5V/blob/main/New%20folder/Screenshot%202023-07-21%20125300.png)	
