@@ -13,7 +13,8 @@ DC-DC buck converter based on NCP3020B controller
 |  IOUT(MAX)|15(A)|
 
 
-# R0.1S (Remodify due to the footprint of output phase capacitors were too rare)
+# R0.1S 
+(Remodify due to the footprint of output phase capacitors were too rare)
 ![github-small](https://cdn.discordapp.com/attachments/857047152684564523/1131997138944020490/IMG_20230618_083849.jpg)
 
 
