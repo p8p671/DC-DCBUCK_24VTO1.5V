@@ -11,8 +11,11 @@ DC-DC buck converter based on NCP3020B controller
 |  VOUT(MAX)|22|(V)|
 |  VOUT(MIN)|1.5    |(V)|
 |  IOUT(MAX)|15|(A)|
+# progess
+50%
+//////////////／／／／／／／／／／
 
-
+R0.1S 12V to 3.3V tested with no load 
 
 # R0.1S 
 (Remodify due to the footprint of output phase capacitors were too rare)
