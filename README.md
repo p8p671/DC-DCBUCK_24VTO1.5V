@@ -5,7 +5,7 @@ DC-DC buck converter based on NCP3020B controller
 # Aproximate spaces
 (!!!WARNING THE PROJECT IS STILL IN PROGRESS, THESE NUMBERS CAN BE DIFFERENT OR INCORRECT!!!)
 | Symbol | Rating        | Unit        |
-|-----:|---------------|
+|-----:|---------------|---------------|
 |  VIN(MAX)|24        |(V)|
 |  VIN(MIN)|5    |(V)|
 |  VOUT(MAX)|22|(V)|
