@@ -1,5 +1,5 @@
 # DC-DCBUCK_24VTO1.5V
-DC-DC buck converter based on NCP3020B controller
+DC-DC buck converter based on NCP3020B controller<br />
 NCP 3020A/B A SOIC 8 28V(MAX) BUCK CONTROLLER
 
 
