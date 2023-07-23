@@ -2,6 +2,7 @@
 DC-DC buck converter based on NCP3020B controller
 NCP 3020A/B A SOIC 8 28V(MAX) BUCK CONTROLLER
 
+
 # Aproximate spaces
 (!!!WARNING THE PROJECT IS STILL IN PROGRESS, THESE NUMBERS CAN BE DIFFERENT OR INCORRECT!!!)
 | Symbol | Rating        | Unit        |
